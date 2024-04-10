@@ -20,7 +20,7 @@ Day 03 : VPC Peering  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000
 
 Day 04 : VPC Flow Logs  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/6CjIT068Ss0?si=ZJmTory1iB6JSQzu)
 
-Day 05 : VPC Endpoints  [YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wSKsJ44PpUo?si=oejaBC_5Ns5IQn2A) 
+Day 05 : VPC Endpoints  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wSKsJ44PpUo?si=DHSgO8zg97B0TTJb)
 
 Day 06
 Day 07
