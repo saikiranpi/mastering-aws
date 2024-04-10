@@ -22,7 +22,8 @@ Day 04 : VPC Flow Logs  [![YouTube](https://img.shields.io/badge/YouTube-%23FF00
 
 Day 05 : VPC Endpoints  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wSKsJ44PpUo?si=DHSgO8zg97B0TTJb)
 
-Day 06
+Day 06 : Sg vs NACL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wHxH8kGY_nU?si=pkJr6X-IX0F3ieTP)
+
 Day 07
 Day 08
 Day 09
