@@ -11,42 +11,63 @@
 
 LIST OF SERVICES WE COVER END OF THIS JOURNEY :-
 
+Day 01: Ip Addressing  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QzYP_5dDPQI?si=UHH8mKsHjZ1P0mNF)  
 
-Day 01 : Ip Addressing  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QzYP_5dDPQI?si=UHH8mKsHjZ1P0mNF)  
+Day 02: VPC,Subnets,Route-Table  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/0uWnEiuWnXI?si=CkqmwHYGCayNK0Ez)  
 
-Day 02 : VPC,Subnets,Route-Table  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/0uWnEiuWnXI?si=CkqmwHYGCayNK0Ez)  
+Day 03: VPC Peering  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QtWYT2wE4gA?si=4ex4NqeqFm2ZbClG)  
 
-Day 03 : VPC Peering  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QtWYT2wE4gA?si=4ex4NqeqFm2ZbClG)  
+Day 04: VPC Flow Logs  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/6CjIT068Ss0?si=ZJmTory1iB6JSQzu)
 
-Day 04 : VPC Flow Logs  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/6CjIT068Ss0?si=ZJmTory1iB6JSQzu)
+Day 05: VPC Endpoints  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wSKsJ44PpUo?si=DHSgO8zg97B0TTJb)
 
-Day 05 : VPC Endpoints  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wSKsJ44PpUo?si=DHSgO8zg97B0TTJb)
+Day 06: Sg vs NACL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wHxH8kGY_nU?si=pkJr6X-IX0F3ieTP)
 
-Day 06 : Sg vs NACL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wHxH8kGY_nU?si=pkJr6X-IX0F3ieTP)
+Day 07:
 
-Day 07
-Day 08
-Day 09
-Day 10
-Day 11
-Day 12
-Day 13
-Day 14
-Day 15
-Day 16
-Day 17
-Day 18
-Day 19
-Day 20
-Day 21
-Day 22
-Day 23
-Day 24
-Day 25
-Day 26
-Day 27
-Day 28
-Day 29
-Day 30
+Day 08:
+ 
+Day 09:
 
-Sources
+Day 10:
+
+Day 11:
+
+Day 12:
+
+Day 13:
+
+Day 14:
+
+Day 15:
+
+Day 16:
+
+Day 17:
+
+Day 18:
+
+Day 19:
+
+Day 20:
+
+Day 21:
+
+Day 22:
+
+Day 23:
+
+Day 24:
+
+Day 25:
+
+Day 26:
+
+Day 27:
+
+Day 28:
+
+Day 29:
+
+Day 30:
+
