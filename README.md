@@ -8,3 +8,4 @@ In this video, we'll delve into the fundamental concepts of IP addressing and su
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pinapathrunisaikiran) 
 [![Docker](https://img.shields.io/badge/docker-12100E?logo=docker&logoColor=blue)](https://hub.docker.com/u/kiran2361993) 
 [![Portfolio](https://img.shields.io/badge/portfolio-green)](https://www.saikiranpi.in) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC0n5QpkSD-UcCOsBuFNEcJQ)
