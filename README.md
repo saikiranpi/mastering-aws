@@ -12,14 +12,16 @@
 LIST OF SERVICES WE COVER END OF THIS JOURNEY :-
 
 
-Day 01 : Ip Addressing[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QzYP_5dDPQI?si=UHH8mKsHjZ1P0mNF)  
+Day 01 : Ip Addressing  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QzYP_5dDPQI?si=UHH8mKsHjZ1P0mNF)  
 
-Day 02 : VPC,Subnets,Route-Table[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/0uWnEiuWnXI?si=CkqmwHYGCayNK0Ez)  
+Day 02 : VPC,Subnets,Route-Table  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/0uWnEiuWnXI?si=CkqmwHYGCayNK0Ez)  
 
-Day 03 : VPC Peering[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QtWYT2wE4gA?si=4ex4NqeqFm2ZbClG)  
+Day 03 : VPC Peering  [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QtWYT2wE4gA?si=4ex4NqeqFm2ZbClG)  
 
-Day 04
-Day 05
+Day 04 : VPC Flow Logs  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/6CjIT068Ss0?si=ZJmTory1iB6JSQzu)
+
+Day 05 : VPC Endpoints  [YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wSKsJ44PpUo?si=oejaBC_5Ns5IQn2A) 
+
 Day 06
 Day 07
 Day 08
