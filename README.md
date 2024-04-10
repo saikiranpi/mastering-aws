@@ -12,7 +12,7 @@
 LIST OF SERVICES WE COVER END OF THIS JOURNEY :-
 
 
-Day 01 : Ip Addressing  [![Ip Addressing](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/QzYP_5dDPQI?si=UHH8mKsHjZ1P0mNF)  
+Day 01 : Ip Addressing  [![Ip Addressing](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=Ip Addressing&logoColor=white)](https://youtu.be/QzYP_5dDPQI?si=UHH8mKsHjZ1P0mNF)  
 
 Day 02 : VPC,Subnets,Route-Table  [![VPC,Subnets,Route-Table](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/0uWnEiuWnXI?si=CkqmwHYGCayNK0Ez)  
 
