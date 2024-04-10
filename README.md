@@ -23,51 +23,79 @@ Day 05: VPC Endpoints  [![YouTube](https://img.shields.io/badge/YouTube-%23FF000
 
 Day 06: Sg vs NACL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wHxH8kGY_nU?si=pkJr6X-IX0F3ieTP)
 
-Day 07:
+Day 07: VPG-Project
 
-Day 08:
+Day 08: TSG-Project
  
-Day 09:
+Day 09: EC2 
 
-Day 10:
+Day 10: EC2 AMI Images with Packer
 
-Day 11:
+Day 11: EBS Volumes
 
-Day 12:
+Day 12: EBS SnapShots
 
-Day 13:
+Day 13: Application Load Balancer 
 
-Day 14:
+Day 14: Network LoadBalancer
 
-Day 15:
+Day 15: AutoScaling Groups
 
-Day 16:
+Day 16: Route53-RoutingPolocies
 
-Day 17:
+Day 17: WAF (Web Application Firewall)
 
-Day 18:
+Day 18: IAM Policies
 
-Day 19:
+Day 19: IAm Roles
 
-Day 20:
+Day 20: IAM Role Switching Actie Directoy 
 
-Day 21:
+Day 21: IAM-SSO-SelfAD-ManageAD-Cognito
 
-Day 22:
+Day 22: GaurdDuty-RAM-KMS-Storage-S3
 
-Day 23:
+Day 23: S3 
 
-Day 24:
+Day 24: S3 Glacier-EFS
 
-Day 25:
+Day 25: StorageGateway-Databases_Intro
 
-Day 26:
+Day 26: RDS-MySQL
 
-Day 27:
+Day 27: DynamoDB-APIGateway-
 
-Day 28:
+Day 28: DocumentDB-SecretManager-ElastiCache-CloudTrail
 
-Day 29:
+Day 29: Redhshift-DataAnalytics
 
-Day 30:
+Day 30: SystemsManager
+
+Day 31: Cloudwatch
+
+Day 32: Cloudwatch-Events-Boto3-Lambda
+
+Day 33: Cloudformation-Part1
+
+Day 34: Cloudformation-Part2
+
+Day 35: Terraform (Intro)
+
+Day 36: ElasticBeanstalk-Config
+
+Day 37: ECR-ECS
+
+Day 38: ECS-Fargate
+
+Day 39: EKS_MigrationOverview
+
+Day 40: DMS-Migration
+
+Day 41: Server-Migration-DataSync
+
+Day 42: DeveloperTools
+
+Day 43: StepFunctions-Others
+
+
 
