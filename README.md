@@ -24,77 +24,75 @@ Day 05: VPC Endpoints  [![YouTube](https://img.shields.io/badge/YouTube-%23FF000
 
 Day 06: Sg vs NACL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wHxH8kGY_nU?si=pkJr6X-IX0F3ieTP)
 
-Day 07: VPG-Project
+Day 7: EC2
 
-Day 08: TSG-Project
- 
-Day 09: EC2 
+Day 8: EC2 AMI Images with Packer
 
-Day 10: EC2 AMI Images with Packer
+Day 9: EBS Volumes
 
-Day 11: EBS Volumes
+Day 10: EBS SnapShots
 
-Day 12: EBS SnapShots
+Day 11: Application Load Balancer
 
-Day 13: Application Load Balancer 
+Day 12: Network Load Balancer
 
-Day 14: Network LoadBalancer
+Day 13: AutoScaling Groups
 
-Day 15: AutoScaling Groups
+Day 14: Route53-Routing Policies
 
-Day 16: Route53-RoutingPolocies
+Day 15: WAF (Web Application Firewall)
 
-Day 17: WAF (Web Application Firewall)
+Day 16: IAM Policies
 
-Day 18: IAM Policies
+Day 17: IAM Roles
 
-Day 19: IAm Roles
+Day 18: IAM Role Switching Active Directory
 
-Day 20: IAM Role Switching Actie Directoy 
+Day 19: IAM-SSO-SelfAD-ManageAD-Cognito
 
-Day 21: IAM-SSO-SelfAD-ManageAD-Cognito
+Day 20: GuardDuty-RAM-KMS-Storage-S3
 
-Day 22: GaurdDuty-RAM-KMS-Storage-S3
+Day 21: S3
 
-Day 23: S3 
+Day 22: S3 Glacier-EFS
 
-Day 24: S3 Glacier-EFS
+Day 23: Storage Gateway-Databases Introduction
 
-Day 25: StorageGateway-Databases_Intro
+Day 24: RDS-MySQL
 
-Day 26: RDS-MySQL
+Day 25: DynamoDB-API Gateway
 
-Day 27: DynamoDB-APIGateway-
+Day 26: DocumentDB-Secret Manager-ElastiCache-CloudTrail
 
-Day 28: DocumentDB-SecretManager-ElastiCache-CloudTrail
+Day 27: Redshift-Data Analytics
 
-Day 29: Redhshift-DataAnalytics
+Day 28: Systems Manager
 
-Day 30: SystemsManager
+Day 29: CloudWatch
 
-Day 31: Cloudwatch
+Day 30: CloudWatch-Events-Boto3-Lambda
 
-Day 32: Cloudwatch-Events-Boto3-Lambda
+Day 31: CloudFormation-Part 1
 
-Day 33: Cloudformation-Part1
+Day 32: CloudFormation-Part 2
 
-Day 34: Cloudformation-Part2
+Day 33: Terraform (Introduction)
 
-Day 35: Terraform (Intro)
+Day 34: Elastic Beanstalk-Config
 
-Day 36: ElasticBeanstalk-Config
+Day 35: ECR-ECS
 
-Day 37: ECR-ECS
+Day 36: ECS-Fargate
 
-Day 38: ECS-Fargate
+Day 37: EKS Migration Overview
 
-Day 39: EKS_MigrationOverview
+Day 38: DMS-Migration
 
-Day 40: DMS-Migration
+Day 39: Server-Migration-DataSync
 
-Day 41: Server-Migration-DataSync
+Day 40: Developer Tools
 
-Day 42: DeveloperTools
+Day 41: Step Functions-Others
 
 Day 43: StepFunctions-Others
 
