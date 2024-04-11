@@ -24,7 +24,7 @@ Day 05: VPC Endpoints  [![YouTube](https://img.shields.io/badge/YouTube-%23FF000
 
 Day 06: Sg vs NACL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wHxH8kGY_nU?si=pkJr6X-IX0F3ieTP)
 
-Day 7: NAT Gateway [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtu.be/wHxH8kGY_nU?si=pkJr6X-IX0F3ieTP](https://youtu.be/9vwzfyUNMKM?si=GOY_6ntg5KEFIhDU))
+Day 7: NAT Gateway [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/9vwzfyUNMKM?si=j71supOOBHNmFjQU)
 
 Day 8: EC2
 
