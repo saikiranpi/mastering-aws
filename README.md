@@ -34,66 +34,64 @@ Day 10: EC2 AMI Images with Packer [![YouTube](https://img.shields.io/badge/YouT
 
 Day 11: EBS Volumes [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/hwX9zyAAWLs?si=UEnBUODEKdtitqEW)
 
-Day 12: EBS Snapshots
+Day 12: Application Load Balancer
 
-Day 13: Application Load Balancer
+Day 13: Network Load Balancer
 
-Day 14: Network Load Balancer
+Day 14: AutoScaling Groups
 
-Day 15: AutoScaling Groups
+Day 15: Route53-Routing Policies
 
-Day 16: Route53-Routing Policies
+Day 16: WAF (Web Application Firewall)
 
-Day 17: WAF (Web Application Firewall)
+Day 17: IAM Policies
 
-Day 18: IAM Policies
+Day 18: IAM Roles
 
-Day 19: IAM Roles
+Day 19: IAM Role Switching Active Directory
 
-Day 20: IAM Role Switching Active Directory
+Day 20: IAM-SSO-SelfAD-ManageAD-Cognito
 
-Day 21: IAM-SSO-SelfAD-ManageAD-Cognito
+Day 21: GuardDuty-RAM-KMS-Storage-S3
 
-Day 22: GuardDuty-RAM-KMS-Storage-S3
+Day 22: S3
 
-Day 23: S3
+Day 23: S3 Glacier-EFS
 
-Day 24: S3 Glacier-EFS
+Day 24: Storage Gateway-Databases Introduction
 
-Day 25: Storage Gateway-Databases Introduction
+Day 25: RDS-MySQL
 
-Day 26: RDS-MySQL
+Day 26: DynamoDB-API Gateway
 
-Day 27: DynamoDB-API Gateway
+Day 27: DocumentDB-Secret Manager-ElastiCache-CloudTrail
 
-Day 28: DocumentDB-Secret Manager-ElastiCache-CloudTrail
+Day 28: Redshift-Data Analytics
 
-Day 29: Redshift-Data Analytics
+Day 29: Systems Manager
 
-Day 30: Systems Manager
+Day 30: CloudWatch
 
-Day 31: CloudWatch
+Day 31: CloudWatch-Events-Boto3-Lambda
 
-Day 32: CloudWatch-Events-Boto3-Lambda
+Day 32: CloudFormation-Part 1
 
-Day 33: CloudFormation-Part 1
+Day 33: CloudFormation-Part 2
 
-Day 34: CloudFormation-Part 2
+Day 34: Terraform (Introduction)
 
-Day 35: Terraform (Introduction)
+Day 35: Elastic Beanstalk-Config
 
-Day 36: Elastic Beanstalk-Config
+Day 36: ECR-ECS
 
-Day 37: ECR-ECS
+Day 37: ECS-Fargate
 
-Day 38: ECS-Fargate
+Day 38: EKS Migration Overview
 
-Day 39: EKS Migration Overview
+Day 39: DMS-Migration
 
-Day 40: DMS-Migration
+Day 40: Server-Migration-DataSync
 
-Day 41: Server-Migration-DataSync
+Day 41: Developer Tools
 
-Day 42: Developer Tools
-
-Day 43: Step Functions-Others
+Day 42: Step Functions-Others
