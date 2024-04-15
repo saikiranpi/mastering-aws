@@ -26,13 +26,13 @@ Day 06: Sg vs NACL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.s
 
 Day 7: NAT Gateway [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/9vwzfyUNMKM?si=j71supOOBHNmFjQU)
 
-Day 8: Transit Gateway
+Day 8: Transit Gateway [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/h6woUZlxcp8?si=HJBO-qMt9GRbzI8h)
 
-Day 9: EC2
+Day 9: EC2 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/xVlDWX4ewdc?si=-Et2JkYjCqV5Npux)
 
-Day 10: EC2 AMI Images with Packer
+Day 10: EC2 AMI Images with Packer [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/cZEKWxYeEUA?si=ibdBvUnpF_jLQHr3)
 
-Day 11: EBS Volumes
+Day 11: EBS Volumes [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/hwX9zyAAWLs?si=UEnBUODEKdtitqEW)
 
 Day 12: EBS Snapshots
 
