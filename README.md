@@ -34,23 +34,25 @@ Day 10: EC2 AMI Images with Packer [![YouTube](https://img.shields.io/badge/YouT
 
 Day 11: EBS Volumes [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/hwX9zyAAWLs?si=UEnBUODEKdtitqEW)
 
-Day 12: Application Load Balancer
+Day 12 : SSL Updation with Lets Encrypt & ACM (Amazon certificate Manager ) 
 
-Day 13: Network Load Balancer
+Day 13: Application Load Balancer
 
-Day 14: AutoScaling Groups
+Day 14: Network Load Balancer
 
-Day 15: Route53-Routing Policies
+Day 15: AutoScaling Groups
 
-Day 16: WAF (Web Application Firewall)
+Day 16: Route53-Routing Policies
 
-Day 17: IAM Policies
+Day 17: WAF (Web Application Firewall)
 
-Day 18: IAM Roles
+Day 18: IAM Policies
 
-Day 19: IAM Role Switching Active Directory
+Day 19: IAM Roles
 
-Day 20: IAM-SSO-SelfAD-ManageAD-Cognito
+Day 20: IAM Role Switching Active Directory
+
+Day 21: IAM-SSO-SelfAD-ManageAD-Cognito
 
 Day 21: GuardDuty-RAM-KMS-Storage-S3
 
