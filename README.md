@@ -34,9 +34,9 @@ Day 10: EC2 AMI Images with Packer [![YouTube](https://img.shields.io/badge/YouT
 
 Day 11: EBS Volumes [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/hwX9zyAAWLs?si=UEnBUODEKdtitqEW)
 
-Day 12: Application Load Balancer
+Day 12: Network Load Balancer [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/th9K0k_J-W4) 
 
-Day 13: Network Load Balancer
+Day 13: Application Load Balancer
 
 Day 14: AutoScaling Groups
 
