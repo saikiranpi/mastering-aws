@@ -1,61 +1,76 @@
-![Black Blue Pink Modern Artificial Intelligence YouTube Thumbnail](https://github.com/saikiranpi/mastering-aws/assets/109568252/fddf742a-56a5-4ef0-b93a-466940b3afd4)
+![a w s-v p c](https://github.com/saikiranpi/mastering-aws/assets/109568252/51f3bbf7-0706-450b-abf5-8c4bd697911b)
 
 
-###### IP Explained #######
+############## AWS VPC ####################
 
-# Network Setup Guide
+# AWS VPC Setup Guide
 
-Welcome to the Network Setup Guide! This guide will help you understand the basics of IP addresses, classes, public and private IPs, and how to configure them for different environments.
+Welcome to the AWS VPC Setup Guide! This guide will walk you through the process of creating a Virtual Private Cloud (VPC) along with its components such as subnets, Internet Gateway, and Routing tables.
 
-## Understanding IP Addresses
+## What is VPC?
 
-In any network setup, devices communicate with each other using IP addresses. There are two types of IP addresses:
+A Virtual Private Cloud (VPC) is a virtual network environment within AWS that allows you to create a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
 
-1. **IPv4:** Shorter addresses, like phone numbers for devices.
-2. **IPv6:** Longer addresses, similar to phone numbers but with more digits.
+## Creating VPC
 
-## IP Address Ranges
+To create a VPC:
+1. Go to the AWS Management Console.
+2. Navigate to the VPC dashboard.
+3. Click on "Create VPC" and specify the VPC details such as CIDR block.
 
-IPv4 addresses range from `0.0.0.0` to `255.255.255.255`. They are divided into five classes: A, B, C, D, and E.
+## Creating Subnets & Internet Gateway
 
-- **Class A:** `1.0.0.0` to `126.255.255.255`
-- **Class B:** `128.0.0.0` to `191.255.255.255`
-- **Class C:** `192.0.0.0` to `223.255.255.255`
+### Subnets
+Subnets are subdivisions of a VPC's IP address range. They help organize and manage different parts of your network.
 
-Classes D and E are reserved for specific purposes and not commonly used.
+Imagine a large plot of land that you want to develop into a residential area. Subnets are like individual buildings within this plot, each containing multiple flats. 
 
-## Loopback Address
+To create subnets:
+1. Navigate to the VPC dashboard.
+2. Click on "Subnets" and then "Create Subnet".
+3. Specify the subnet details including CIDR block and Availability Zone (AZ).
 
-You might wonder why `127` is skipped. `127.0.0.1` is reserved for loopback, meaning a device pings itself.
+### Internet Gateway (IGW)
+An Internet Gateway allows communication between instances in your VPC and the internet.
 
-## Public and Private IPs
+To create an Internet Gateway:
+1. Navigate to the VPC dashboard.
+2. Click on "Internet Gateways" and then "Create Internet Gateway".
+3. Attach the Internet Gateway to your VPC.
 
-As IP addresses are limited, there's a concept of public and private IPs.
+## Creating Routing Tables
 
-- **Public IPs:** Used for communication over external networks.
-- **Private IPs:** Used internally within closed infrastructures or office environments.
+Routing tables define how traffic is directed within the VPC. They control the flow of traffic between subnets, internet gateways, and other network devices within the VPC.
 
-### Private IP Ranges
+To create a routing table:
+1. Navigate to the VPC dashboard.
+2. Click on "Route Tables" and then "Create Route Table".
+3. Define the routing rules, ensuring that traffic flows efficiently and securely to its intended destination.
 
-Private IPs are reserved within specific ranges:
+## Example on VPC
 
-- `10.0.0.0` to `10.255.255.255` (`10/8 prefix`)
-- `172.16.0.0` to `172.31.255.255` (`172.16/12 prefix`)
-- `192.168.0.0` to `192.168.255.255` (`192.168/16 prefix`)
+On a high level, each company's data and applications are kept separate and secure within their own VPC. Subnets help organize different stages of the software development lifecycle. 
 
-These addresses are for internal use only and should not be accessible from outside the network.
+![VPC Setup Diagram](vpc_setup.png)
 
-## Configuring IP Addresses
+Now you have configured VPC and Subnets successfully!
 
-### Example
+## Internet Gateway & Route Tables
 
-To demonstrate, you can open CMD and type `ipconfig` to view your IPv4 private address. Then, by searching "my public IP" on Google, you can find your public IP address.
+### Internet Gateway (IGW)
+An Internet Gateway allows communication between instances in your VPC and the internet.
 
-![Network Setup](network_setup.png)
+### Route Tables
+Route tables control the flow of traffic within the VPC. They ensure that traffic is directed efficiently and securely to its intended destination.
 
-In the diagram above, you can see how public and private IPs are used in different environments.
+To configure Internet Gateway and Route Tables:
+1. Create an Internet Gateway and attach it to your VPC.
+2. Create a Route Table and define routing rules, allowing traffic to flow between subnets and the internet.
 
-Now you have a basic understanding of IP addresses, classes, and how to use public and private IPs effectively. Happy networking!
+Remember to allow public subnets to access the internet by configuring the route table appropriately.
 
+***Note:*** In routing tables, `0.0.0.0/0` means traffic not destined for the local network (e.g., `10.35.0.0/16`) should be routed to the internet gateway. 
 
-![image](https://github.com/saikiranpi/mastering-aws/assets/109568252/8ffcbeb7-63d3-4df7-9a19-5d9ec9e31629)
+Now you have a fully functional VPC with its components set up properly! Happy networking!
+
+![image](https://github.com/saikiranpi/mastering-aws/assets/109568252/97947faf-5b41-41da-9be0-78fd4e495250)
