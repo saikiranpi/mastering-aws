@@ -1,4 +1,9 @@
-##################################### DONT FORGET TO CHANGE THE DOMAIN NAME WITH YOUR NAME #####################################
+
+![Portfolio_Thumbnail](https://github.com/saikiranpi/mastering-aws/assets/109568252/df715451-e120-4ebc-b7e0-d3eadcbbce72)
+
+
+
+######### DONT FORGET TO CHANGE THE DOMAIN NAME WITH YOUR NAME #########
 
 -    DEPLOY AN EC2 ISNTANCE IN AWS USE UBUNTU 20
 
