@@ -1,46 +1,27 @@
-![Flow Logs](https://github.com/saikiranpi/mastering-aws/assets/109568252/15614265-ebd8-4769-a7f2-636e56188098)
+![VPC endpoints](https://github.com/saikiranpi/mastering-aws/assets/109568252/9395305a-78c6-4431-97fd-1856f9139392)
 
 
+VPC Endpoints Guide
+Welcome to the VPC Endpoints Guide! In this guide, we'll explore how VPC endpoints can be used to securely access AWS services without the need for public internet connectivity.
 
-# VPC Flow Logs Guide
+Introduction
+Consider a scenario where you have a highly sensitive application deployed within an Amazon VPC (Virtual Private Cloud) in your AWS account. This application needs to securely access AWS services such as Amazon S3 and Amazon DynamoDB without exposing it to the public internet. Additionally, you want to restrict access to these services to only resources within your VPC.
 
-Welcome to the VPC Flow Logs Guide! This guide will help you understand the importance of VPC flow logs and how to set them up in AWS.
+VPC Endpoints Overview
+VPC endpoints enable servers within a VPC to communicate with other AWS services internally, without needing to route traffic through the public internet. There are two types of VPC endpoints:
 
-## Understanding VPC Flow Logs
+Gateway Endpoints: Used for services like S3 and DynamoDB.
+Interface Endpoints: Create a network interface on a corresponding subnet for other services.
+Gateway Endpoints
+To set up a gateway endpoint:
 
-After creating an EC2 instance, how does it connect to the internet? The network interface (ENI) is created, which connects to a subnet, and that subnet is connected to a VPC. There are three types of flows:
+Remove the route to the NAT gateway and disable all public access.
+Go to the VPC dashboard, select S3 gateway endpoints, choose your VPC, and select both public and private routing tables. Create endpoints and wait for the file to be downloaded.
+Verify by checking the private routing table.
+Interface Endpoints
+To set up interface endpoints:
 
-1. **ENI to Subnet:** Traffic flow between the network interface and the subnet.
-2. **Subnet to VPC:** Traffic flow between the subnet and the VPC.
-3. **ENI to VPC:** Aggregated traffic flow between the network interface and the VPC.
-
-## Purpose of VPC Flow Logs
-
-VPC flow logs are essential for auditing and tracing network traffic. They provide insights into network activities and help detect and investigate security breaches. For example, if there's a breach, the audit team may ask for VPC flow logs to trace the traffic. Additionally, compliance standards such as PCI DSS require organizations to maintain transaction history for security and governance purposes.
-
-## Setting Up VPC Flow Logs
-
-To set up VPC flow logs:
-1. **Create Instance:** Launch an EC2 instance.
-2. **Create S3 Bucket:** Create an S3 bucket to store the flow logs centrally.
-3. **Configure Flow Logs:** Go to the VPC dashboard and create flow logs for the desired VPCs.
-
-## Generating Logs
-
-To generate logs, you can use the cloud shell and run a script to continuously hit a website and capture traffic:
-
-```bash
-curl ec2-35-173-233-127.compute-1.amazonaws.com
-while true
-do
-  curl ec2-35-173-233-127.compute-1.amazonaws.com | grep -I nginx
-  sleep 1
-done
-```
-
-This script will generate continuous traffic hitting the specified website, allowing you to observe and capture flow logs.
-
-By setting up VPC flow logs, you ensure visibility into your network traffic, aiding in security monitoring and compliance requirements.
-
-Happy logging!
-
+Create a role for EC2 instances with managed instance core and SSM permissions.
+Attach the IAM role to both public and private instances and reboot them.
+Create endpoints for ec2messages, SSMMESSAGES, and SSM, selecting the proper private instance region, subnet, and security group. Reboot the private server and wait.
+Test by checking internet connectivity (should not work) and downloading an image from S3 (should work).
