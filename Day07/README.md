@@ -39,3 +39,7 @@ By deploying a NAT gateway in the public subnet and routing traffic from the pri
 By leveraging NAT gateways, you can securely enable internet access for instances in private subnets, facilitating communication with external resources while maintaining a secure network environment.
 
 Happy networking with NAT gateways!
+
+
+![NAT](https://github.com/saikiranpi/mastering-aws/assets/109568252/bf24800b-401a-473a-8e22-568992114ffc)
+
