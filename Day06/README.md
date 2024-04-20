@@ -1,28 +1,46 @@
-![VPC endpoints](https://github.com/saikiranpi/mastering-aws/assets/109568252/9395305a-78c6-4431-97fd-1856f9139392)
+
+![Uploading Security VS NACL.png…]()
 
 
-VPC Endpoints Guide
-Welcome to the VPC Endpoints Guide! In this guide, we'll explore how VPC endpoints can be used to securely access AWS services without the need for public internet connectivity.
+# Security Groups vs Network Access Control Lists (NACLs)
 
-Introduction
-Consider a scenario where you have a highly sensitive application deployed within an Amazon VPC (Virtual Private Cloud) in your AWS account. This application needs to securely access AWS services such as Amazon S3 and Amazon DynamoDB without exposing it to the public internet. Additionally, you want to restrict access to these services to only resources within your VPC.
+Let's delve into the differences between security groups (SG) and network access control lists (NACLs) in AWS, using the analogy of firewalls and practical examples to illustrate their functionalities.
 
-VPC Endpoints Overview
-VPC endpoints enable servers within a VPC to communicate with other AWS services internally, without needing to route traffic through the public internet. There are two types of VPC endpoints:
+## Security Groups
 
-Gateway Endpoints: Used for services like S3 and DynamoDB.
-Interface Endpoints: Create a network interface on a corresponding subnet for other services.
-Gateway Endpoints
-To set up a gateway endpoint:
+Security groups act as stateful firewalls, controlling traffic at the instance level based on rules. They regulate inbound and outbound traffic and are associated with individual instances.
 
-Remove the route to the NAT gateway and disable all public access.
-Go to the VPC dashboard, select S3 gateway endpoints, choose your VPC, and select both public and private routing tables. Create endpoints and wait for the file to be downloaded.
-Verify by checking the private routing table.
-Interface Endpoints
-To set up interface endpoints:
+### Practical Example
 
-Create a role for EC2 instances with managed instance core and SSM permissions.
-Attach the IAM role to both public and private instances and reboot them.
-Create endpoints for ec2messages, SSMMESSAGES, and SSM, selecting the proper private instance region, subnet, and security group. Reboot the private server and wait.
-Test by checking internet connectivity (should not work) and downloading an image from S3 (should work).
+Suppose you have an instance with default security group settings:
+- All inbound traffic is denied by default.
+- Outbound traffic is allowed by default.
 
+1. **Allow All Inbound Traffic:** Delete the outbound rules and test internet connectivity. You'll notice that the instance can connect to the internet.
+2. **Restrict Outbound Access to Websites:** Add outbound rules for HTTP and HTTPS. Test again to ensure only website access is permitted.
+3. **Allow ICMP Protocol for Ping:** As ping uses ICMP protocol, add an outbound rule to allow ICMP traffic for ping to work.
+
+Remember, security groups start with a default deny stance and require explicit rules to allow traffic.
+
+## Network Access Control Lists (NACLs)
+
+NACLs, on the other hand, function as stateless firewalls, controlling traffic at the subnet level based on rules. They evaluate inbound and outbound traffic separately and are associated with subnets.
+
+### Real-Time Scenario
+
+Let's consider a scenario where you have a web server that needs to be accessible from the internet. Here's the setup:
+- Outbound Rules: Allow all traffic.
+- Inbound Rules: Allow TCP port 80 from 0.0.0.0/0 (anywhere) for web traffic and TCP port 22 from your IP address for SSH access.
+
+By configuring NACLs in this manner, you ensure that web traffic (HTTP) is allowed from anywhere while SSH access is restricted to your IP address only.
+
+## Comparison: SG vs NACL
+
+- **Security Groups:** Work at the instance level. They are stateful and require explicit rules for inbound and outbound traffic.
+- **NACLs:** Operate at the subnet level. They are stateless and evaluate inbound and outbound traffic separately, with the option to allow or deny traffic based on defined rules.
+
+Remember, in an interview scenario, you may be asked to differentiate between security groups and NACLs. Security groups regulate traffic at the instance level, while NACLs control traffic at the subnet level, offering both allow and deny options based on defined rules.
+
+![SG vs NACL](sg_vs_nacl.png)
+
+This diagram visually represents the differences between security groups and NACLs in AWS, highlighting their respective scopes and functionalities.
