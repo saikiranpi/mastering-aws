@@ -36,9 +36,9 @@ Day 11: EBS Volumes [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.s
 
 Day 12: Network Load Balancer [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/th9K0k_J-W4) 
 
-Day 13: Application Load Balancer
+Day 13: Application Load Balancer [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/I4s4VT6k2DU) 
 
-Day 14: AutoScaling Groups
+Day 14: AutoScaling Groups [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/IcBlMtVJekQ)
 
 Day 15: Route53-Routing Policies
 
