@@ -1,4 +1,4 @@
-![image](https://github.com/saikiranpi/mastering-aws/assets/109568252/47edab01-2ad3-42c2-b895-ec5d9b4b656e)
+
 
 
 Creating an Application Load Balancer (ALB) and configuring it with multiple target groups can significantly enhance your application's scalability and reliability. Here's a step-by-step guide along with a diagram:
