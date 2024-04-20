@@ -1,18 +1,18 @@
 ##################################### DONT FORGET TO CHANGE THE DOMAIN NAME WITH YOUR NAME #####################################
 
-DEPLOY AN EC2 ISNTANCE IN AWS USE UBUNTU 20
+-    DEPLOY AN EC2 ISNTANCE IN AWS USE UBUNTU 20
 
-apt update && apt install -y nginx
+-    apt update && apt install -y nginx
 
-sudo apt update && sudo apt install certbot python3-certbot-nginx
+-    sudo apt update && sudo apt install certbot python3-certbot-nginx
 
-sudo mkdir -p /var/www/pinapathrunisaikiran.co.in/html
+-    sudo mkdir -p /var/www/pinapathrunisaikiran.co.in/html
 
-sudo chown -R $USER:$USER /var/www/pinapathrunisaikiran.co.in/html
+-    sudo chown -R $USER:$USER /var/www/pinapathrunisaikiran.co.in/html
 
-sudo chmod -R 755 /var/www/pinapathrunisaikiran.co.in
+-    sudo chmod -R 755 /var/www/pinapathrunisaikiran.co.in
 
-nano /var/www/pinapathrunisaikiran.co.in/html/index.html
+-    nano /var/www/pinapathrunisaikiran.co.in/html/index.html
 
 <html>
     <head>
@@ -24,7 +24,7 @@ nano /var/www/pinapathrunisaikiran.co.in/html/index.html
 </html>
 
 
-sudo nano /etc/nginx/sites-available/pinapathrunisaikiran.co.in
+-    sudo nano /etc/nginx/sites-available/pinapathrunisaikiran.co.in
 
 server {
         listen 80;
@@ -41,11 +41,11 @@ server {
 }
 
 
-sudo ln -s /etc/nginx/sites-available/pinapathrunisaikiran.co.in /etc/nginx/sites-enabled/
+-    sudo ln -s /etc/nginx/sites-available/pinapathrunisaikiran.co.in /etc/nginx/sites-enabled/
 
-sudo nginx -t
+-    sudo nginx -t
 
-sudo systemctl restart nginx
+-    sudo systemctl restart nginx
 
 sudo certbot certonly \
   --agree-tos \
@@ -55,6 +55,8 @@ sudo certbot certonly \
   -d *.pinapathrunisaikiran.co.in \
   --server https://acme-v02.api.letsencrypt.org/directory
   
- If we need to get individual ssl certs we can perform following:
+ 
+ 
+FOR HTTP TO HTTPS FORWARDING RUN THE BELOW COMMAND.
  
  certbot --nginx
