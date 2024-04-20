@@ -1,5 +1,5 @@
 
-![Uploading Security VS NACL.png…]()
+![Security VS NACL](https://github.com/saikiranpi/mastering-aws/assets/109568252/2fe56c98-cc17-4589-821d-9b54e16ac47c)
 
 
 # Security Groups vs Network Access Control Lists (NACLs)
