@@ -1,0 +1,60 @@
+#/bin/bash
+sudo apt update 
+sudo apt install software-properties-common -y
+sudo apt-add-repository --yes --update ppa:ansible/ansible
+sudo apt update
+sudo apt install ansible -y
+sudo apt install nginx -y
+sudo apt install python-apt -y
+sudo apt install git -y
+sudo apt install stress -y
+sudo git clone https://github.com/saikiranpi/autoscaling_testing.git /myrepo
+sleep 10
+ansible-playbook /myrepo/playbook.yaml
+
+######GIVE ONLY ABOVE IN THE USER DATA FOR AMI IMAGE FOR AWS AUTOSCALING##########
+#
+#####GIVE BELOW IN THE LAUNCH CONFIG USERDATA#####################################
+ansible-playbook /myrepo/playbook.yaml
+
+######GIVE BELOW IN THE CUSTOM DATA OF AZURE VMSSS################################
+#cloud-config
+package_upgrade: true
+packages:
+  - jq
+
+runcmd:
+  - ansible-playbook /myrepo/playbook.yaml
+
+
+
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+#   #!/bin/bash
+
+# # Update the package repository
+# sudo yum update -y
+
+# # Install required packages
+# sudo yum install -y epel-release git stress
+
+# # Install Ansible repository and Ansible
+# sudo amazon-linux-extras install ansible2 -y
+
+# # Install nginx
+# sudo amazon-linux-extras install nginx1.12 -y
+
+# # Install python-apt
+# sudo yum install -y python3-apt
+
+# # Clone the repository
+# sudo git clone https://github.com/saikiranpi/autoscaling_testing.git /myrepo
+
+# # Wait for some time
+# sleep 10
+
+# # Run Ansible playbook
+# sudo ansible-playbook /myrepo/playbook.yaml
+

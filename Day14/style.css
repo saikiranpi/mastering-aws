@@ -1,0 +1,32 @@
+body {
+	background: #222222
+}
+
+h1 {
+	color: white
+}
+
+.square {
+	width: 30%;
+	background-color: purple;
+	margin: 1.66%;
+	padding-bottom: 30%;
+	float: left;
+}
+
+#container {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+#smallcont{
+	height: 10px;
+	color: white;
+	text-align: center;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+
+#try {
+	color: white;
+}
