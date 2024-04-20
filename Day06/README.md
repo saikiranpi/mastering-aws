@@ -44,3 +44,7 @@ Remember, in an interview scenario, you may be asked to differentiate between se
 ![SG vs NACL](sg_vs_nacl.png)
 
 This diagram visually represents the differences between security groups and NACLs in AWS, highlighting their respective scopes and functionalities.
+
+
+![Sg vs NACL](https://github.com/saikiranpi/mastering-aws/assets/109568252/8a623a87-f5f0-4d5d-a84c-268f28bd690a)
+
