@@ -40,9 +40,9 @@ Day 13: Application Load Balancer [![YouTube](https://img.shields.io/badge/YouTu
 
 Day 14: AutoScaling Groups [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/IcBlMtVJekQ)
 
-Day 15: Route53-Routing Policies
+Day 15: Route53-Routing Policies [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/3ZAbp2gd82Y?si=j1scJw6X_JbwNm9J)
 
-Day 16: WAF (Web Application Firewall)
+Day 16: WAF (Web Application Firewall) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/sCBwaQwZ8xY?si=hQG2iWWycA6OHlz0)
 
 Day 17: IAM Policies
 
