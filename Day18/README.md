@@ -11,6 +11,9 @@ Good Document : https://aws.amazon.com/premiumsupport/knowledge-center/iam-assum
 How to Assume Role by AWS CLI for a user:
 Create a new user with name awsb35user with access and secret key and copy the User ARM somewhere and Access key and Secret key.
 Create AWS Role as awsb35-ec2-s3-role and assign custom policy as below.
+
+
+
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -22,6 +25,9 @@ Create AWS Role as awsb35-ec2-s3-role and assign custom policy as below.
         }
     ]
 }
+
+
+
 
 Edit trust policy of the role and give the following:
 {
@@ -46,10 +52,17 @@ Edit trust policy of the role and give the following:
 }
 
 
+
+
+
 Create a new AWS Linux 2 server and configure AWS Credentials for the user using access key and secret key which you have generated in the first step.
 
 
 Creating following inline polices for the user.
+
+
+
+
 {
     "Version": "2012-10-17",
     "Statement": {
