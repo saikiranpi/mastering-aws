@@ -5,7 +5,7 @@
             "Effect": "Allow",
             "Principal": {
                 "AWS": [
-                    "arn:aws:iam::431064776024:user/main-user"
+                    "arn:aws:iam::accountid:user/main-user"
                 ],
                 "Service": [
                     "ec2.amazonaws.com",
