@@ -1,0 +1,11 @@
+{
+  "Version": "2012-10-17",
+  "Statement": {
+    "Effect": "Allow",
+    "Action": "sts:AssumeRole",
+    "Resource": [
+      "arn:aws:iam::891377035410:role/staging-role",
+      "arn:aws:iam::211125710812:role/QA-Role"
+    ]
+  }
+}
