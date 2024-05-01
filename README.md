@@ -44,13 +44,13 @@ Day 15: Route53-Routing Policies [![YouTube](https://img.shields.io/badge/YouTub
 
 Day 16: WAF (Web Application Firewall) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/sCBwaQwZ8xY?si=hQG2iWWycA6OHlz0)
 
-Day 17: IAM Policies
+Day 17: IAM Policies [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/i1WrUy-RxCs?si=80YTIDVfM-M7dpIZ)
 
-Day 18: IAM Roles
+Day 18: IAM Roles [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/XjhrAQdoJow?si=bYQHbhzJnvL0BUDE)
 
-Day 19: IAM Role Switching Active Directory
+Day 19: IAM Role Switching Active Directory [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/ayPLTf-svfM?si=0TMna3D-Fe1TpiAc)
 
-Day 20: IAM-SSO-SelfAD-ManageAD-Cognito
+Day 20: IAM-SSO-SelfAD-ManageAD-Cognito [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wo1Sv47QfXw?si=gfoGuRmLBhzKJJCT)
 
 Day 20: GuardDuty-RAM-KMS-Storage-S3
 
