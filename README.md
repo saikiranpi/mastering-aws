@@ -52,8 +52,6 @@ Day 19: IAM Role Switching Active Directory [![YouTube](https://img.shields.io/b
 
 Day 20: IAM-SSO-SelfAD-ManageAD-Cognito [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wo1Sv47QfXw?si=gfoGuRmLBhzKJJCT)
 
-Day 20: GuardDuty-RAM-KMS
-
 Day 21: RDS-MySQL
 
 Day 22: DynamoDB-API Gateway
