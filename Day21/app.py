@@ -3,7 +3,7 @@ import pymysql
 from sqlalchemy import create_engine, text
 
 # Create engine
-engine = create_engine('mysql+pymysql://admin:Kiran9391598915@main-db-1.coxustur59bk.us-east-1.rds.amazonaws.com/myflixdb')
+engine = create_engine('mysql+pymysql://admin:password@endpointhere/myflixdb')
 
 # Create connection
 connection = engine.connect()
