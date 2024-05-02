@@ -21,3 +21,11 @@ connection.close()
 # Print fetched data
 for item in data:
     print(item)
+
+##ubuntu Installation##
+
+install python 3
+apt update && apt install python3-pip -y
+
+pip install sqlalchemy
+pip install pymysql
