@@ -52,9 +52,9 @@ Day 19: IAM Role Switching Active Directory [![YouTube](https://img.shields.io/b
 
 Day 20: IAM-SSO-SelfAD-ManageAD-Cognito [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wo1Sv47QfXw?si=gfoGuRmLBhzKJJCT)
 
-Day 21: RDS-MySQL
+Day 21: RDS-MySQL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/rejfGRBPD_Q?si=AZwXSFuqaADfn95B)
 
-Day 22: DynamoDB-API Gateway
+Day 22: DynamoDB-API Gateway [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/l9J4Amgmz_g?si=sCA5y_oPxxjUqfWw)
 
 Day 23: DocumentDB-Secret Manager-ElastiCache-CloudTrail
 
