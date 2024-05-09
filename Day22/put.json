@@ -1,0 +1,17 @@
+{
+    "operation": "create",
+    "payload": {
+        "TableName": "bookstore",
+        "Item": {
+            "id": 30,
+            "author": "Dhaloni",
+            "bookname": "I lost my mind in this game - Vincent ",
+            "Location": "USA",
+            "Hobbies": {
+                "Act1": "Swimming",
+                "Act2": "Cycling",
+                "Act3": "Writing"
+            }
+        }
+    }
+}
