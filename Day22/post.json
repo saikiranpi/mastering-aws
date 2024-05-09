@@ -1,0 +1,9 @@
+{
+    "operation": "read",
+    "payload": {
+        "TableName": "bookstore",
+        "Key": {
+            "id": 10
+        }
+    }
+}
