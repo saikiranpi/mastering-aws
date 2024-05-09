@@ -93,8 +93,7 @@ Day 39: Server-Migration-DataSync
 Day 40: Developer Tools
 
 Day 41: Step Functions-Others
-Day 40: Server-Migration-DataSync
 
-Day 41: Developer Tools
+Day 42: Developer Tools
 
-Day 42: Step Functions-Others
+Day 43: Step Functions-Others
