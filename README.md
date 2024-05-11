@@ -56,44 +56,44 @@ Day 21: RDS-MySQL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.sv
 
 Day 22: DynamoDB-API Gateway [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/l9J4Amgmz_g?si=sCA5y_oPxxjUqfWw)
 
-Day 23: DocumentDB-Secret Manager-ElastiCache-CloudTrail
+Day 23: Redshift-Data Analytics
 
-Day 24: Redshift-Data Analytics
+Day 24: S3
 
-Day 25: S3
+Day 25: S3 Glacier-EFS
 
-Day 26: S3 Glacier-EFS  
+Day 26: Storage Gateway
 
-Day 27: Storage Gateway
+Day 27: Systems Manager
 
-Day 28: Systems Manager
+Day 28: CloudWatch
 
-Day 29: CloudWatch
+Day 29: CloudWatch-Events-Boto3-Lambda
 
-Day 30: CloudWatch-Events-Boto3-Lambda
+Day 30: CloudFormation-Part 1
 
-Day 31: CloudFormation-Part 1
+Day 31: CloudFormation-Part 2
 
-Day 32: CloudFormation-Part 2
+Day 32: Terraform (Introduction)
 
-Day 33: Terraform (Introduction)
+Day 33: Elastic Beanstalk-Config
 
-Day 34: Elastic Beanstalk-Config
+Day 34: ECR-ECS
 
-Day 35: ECR-ECS
+Day 35: ECS-Fargate
 
-Day 36: ECS-Fargate
+Day 36: EKS Migration Overview
 
-Day 37: EKS Migration Overview
+Day 37: DMS-Migration
 
-Day 38: DMS-Migration
+Day 38: Server-Migration-DataSync
 
-Day 39: Server-Migration-DataSync
+Day 39: Developer Tools
 
-Day 40: Developer Tools
+Day 40: Step Functions-Others
 
-Day 41: Step Functions-Others
+Day 41: Developer Tools
 
-Day 42: Developer Tools
+Day 42: Step Functions-Others
 
 Day 43: Step Functions-Others
