@@ -1,4 +1,5 @@
-![25](https://github.com/saikiranpi/mastering-aws/assets/109568252/4ffe00e8-c6af-4504-9155-3e08d9a83d07)
+![25](https://github.com/saikiranpi/mastering-aws/assets/109568252/b192a9f2-534a-4b50-a0e1-f59a6fec4d19)
+
 
 
 Sure, here's a comprehensive GitHub README for your project:
