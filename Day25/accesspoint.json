@@ -1,0 +1,52 @@
+// This policy allows any AWS user to perform any action on the specified S3 bucket and its objects
+
+// But only if the action is performed through a Data Access Point belonging to the AWS account with ID "431064776024"
+{
+	"Version": "2012-10-17",
+	"Statement": [
+    	{
+        	"Effect": "Allow",
+        	"Principal": {
+            	"AWS": "*"
+        	},
+        	"Action": "*",
+        	"Resource": [
+            	"arn:aws:s3:::saikiran236236",
+            	"arn:aws:s3:::saikiran236236/*"
+        	],
+        	"Condition": {
+            	"StringEquals": {
+                	"s3:DataAccessPointAccount": "431064776024"
+            	}
+        	}
+    	}
+	]
+}
+
+
+
+
+// This policy allows the IAM user "developeruser1" in the AWS account "431064776024" to perform any action on all objects accessible 
+// through the S3 access point "dev1accesspoint" in the "us-east-1" region.
+
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Principal": {
+				"AWS": "arn:aws:iam::431064776024:user/developer1"
+			},
+			"Action": "*",
+			"Resource": "arn:aws:s3:us-east-1:431064776024:accesspoint/accesspointdev1/object/folder1/*"
+		}
+	]
+}
+
+
+
+
+####### S3 COMMAND ##########
+
+
+aws s3 cp saikiran.txt s3://arn:aws:s3:us-east-1:431064776024:accesspoint/accesspointdev1/folder1/saikiran.txt
