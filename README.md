@@ -56,44 +56,44 @@ Day 21: RDS-MySQL  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.sv
 
 Day 22: DynamoDB-API Gateway [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/l9J4Amgmz_g?si=sCA5y_oPxxjUqfWw)
 
-Day 23: Redshift-Data Analytics
+Day 23: Redshift-Data Analytics  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/M3t5i3lNxgc?si=YIg3oa3nub_xbyj2)
 
-Day 24: S3
+Day 24: S3 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/Q4LNQSgVWcs?si=2vcoXxWviKJ0F07D)
+ 
+Day 25: S3-AccessPoints-EFS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/S61Ow7TQ-fg?si=dlsmFiGeivjeGVR-)
 
-Day 25: S3 Glacier-EFS
+Day 26: Glacier -EFS 
 
-Day 26: Storage Gateway
+Day 27: FSx-Workspaces-AWSBackup
 
-Day 27: Systems Manager
+Day 28: Systems Manager
 
-Day 28: CloudWatch
+Day 29: CloudWatch
 
-Day 29: CloudWatch-Events-Boto3-Lambda
+Day 30: CloudWatch-Events-Boto3-Lambda
 
-Day 30: CloudFormation-Part 1
+Day 31: CloudFormation-Part 1
 
-Day 31: CloudFormation-Part 2
+Day 32: CloudFormation-Part 2
 
-Day 32: Terraform (Introduction)
+Day 33: Terraform (Introduction)
 
-Day 33: Elastic Beanstalk-Config
+Day 34: Elastic Beanstalk-Config
 
-Day 34: ECR-ECS
+Day 35: ECR-ECS
 
-Day 35: ECS-Fargate
+Day 36: ECS-Fargate
 
-Day 36: EKS Migration Overview
+Day 37: EKS Migration Overview
 
-Day 37: DMS-Migration
+Day 38: DMS-Migration
 
-Day 38: Server-Migration-DataSync
+Day 39: Server-Migration-DataSync
 
-Day 39: Developer Tools
+Day 40: Developer Tools
 
-Day 40: Step Functions-Others
+Day 41: Step Functions-Others
 
-Day 41: Developer Tools
+Day 42: Developer Tools
 
-Day 42: Step Functions-Others
-
-Day 43: Step Functions-Others
+Day 43: Step Functions
