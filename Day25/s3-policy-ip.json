@@ -1,0 +1,22 @@
+##GIVING ACCESS TO ONLY SPECIFIC IP
+
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:*",
+            "Resource": [
+                "arn:aws:s3:::testingggggggggggggggggggggggggggggggggggggg/*"
+            ],
+            "Condition": {
+                "IpAddress": {
+                    "aws:SourceIp": [
+                        "49.37.154.22/32"
+                    ]
+                }
+            }
+        }
+    ]
+}
