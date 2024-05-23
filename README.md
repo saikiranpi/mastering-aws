@@ -64,7 +64,7 @@ Day 25: S3-AccessPoints-EFS [![YouTube](https://img.shields.io/badge/YouTube-%23
 
 Day 26: Glacier -EFS 
 
-Day 27: FSx-Workspaces-AWSBackup
+Day 27: FSx-Workspaces
 
 Day 28: Systems Manager
 
