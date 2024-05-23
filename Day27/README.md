@@ -137,7 +137,7 @@ Feel free to contribute, open issues, or ask questions in the repository!
 
 ### Contact
 
-For any queries, contact [your-email@example.com](mailto:your-email@example.com).
+For any queries, contact [your-email@example.com](mailto:Pinapathruni.saikiran@gmail.com).
 
 ---
 
