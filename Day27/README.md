@@ -154,5 +154,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [AWS FSX Documentation](https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html)
 
 ---
-
-By structuring the README in this way, you provide clear, concise information while also making it visually appealing and easy to navigate for GitHub users.
