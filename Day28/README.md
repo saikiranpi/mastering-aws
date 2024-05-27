@@ -2,8 +2,6 @@
 
 
 
-Got it, you want a README similar to the one found in the GitHub repository you provided. Let me craft one following that style:
-
 ---
 
 # Mastering AWS - Day 28
