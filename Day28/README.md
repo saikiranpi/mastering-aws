@@ -55,5 +55,3 @@ Default EC2 monitoring provides limited metrics. To monitor additional metrics l
 By following these steps, you can effectively manage your AWS instances using SSM and enhance monitoring with the CloudWatch agent. This setup provides comprehensive insights into your instances' performance and enables efficient management.
 
 ---
-
-Does this format meet your expectations?
