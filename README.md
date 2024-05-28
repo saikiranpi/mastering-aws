@@ -62,7 +62,7 @@ Day 24: S3 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=Y
  
 Day 25: S3-AccessPoints-EFS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/S61Ow7TQ-fg?si=dlsmFiGeivjeGVR-)
 
-Day 26: Glacier -EFS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/r9KZjWNECwk?si=ZW7_Xs2_2-lvimel) 
+Day 26: Glacier -EFS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/r9KZjWNECwk?si=xtBjytQWnDoYqZ3l) 
 
 Day 27: FSx-Workspaces [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/FgFehTUHn50?si=CbzKpdwQAx0IgYDQ)
 
