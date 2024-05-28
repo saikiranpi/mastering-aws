@@ -128,16 +128,9 @@ Feel free to contribute, open issues, or ask questions in the repository!
 
 ---
 
-### Screenshots
-
-![AWS Directory Service](https://via.placeholder.com/800x400?text=AWS+Directory+Service)
-![AWS Workspaces Setup](https://via.placeholder.com/800x400?text=AWS+Workspaces+Setup)
-
----
-
 ### Contact
 
-For any queries, contact [your-email@example.com](mailto:Pinapathruni.saikiran@gmail.com).
+For any queries, contact [Pinapathruni.saikiran@gmail.com]
 
 ---
 
