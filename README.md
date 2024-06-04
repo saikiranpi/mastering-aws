@@ -66,11 +66,11 @@ Day 26: Glacier -EFS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.
 
 Day 27: FSx-Workspaces [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/FgFehTUHn50?si=CbzKpdwQAx0IgYDQ)
 
-Day 28: Systems Manager
+Day 28: Systems Manager [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/LQnMRX8Ow1A?si=VPLZsBq2utk_Ha2f)
 
-Day 29: CloudWatch
+Day 29: CloudWatch - Customer Metrics On nginx [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/RDJyzIPjyzw?si=R5OpHL-gFgOKw8_H)
 
-Day 30: CloudWatch-Events-Boto3-Lambda
+Day 30: CloudWatch-EventBridge-Lambda  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/iS3MIvcV9B0?si=bRKCIuSMlBTZWh6e)
 
 Day 31: CloudFormation-Part 1
 
