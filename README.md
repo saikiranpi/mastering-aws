@@ -72,28 +72,24 @@ Day 29: CloudWatch - Customer Metrics On nginx [![YouTube](https://img.shields.i
 
 Day 30: CloudWatch-EventBridge-Lambda  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/iS3MIvcV9B0?si=bRKCIuSMlBTZWh6e)
 
-Day 31: CloudFormation-Part 1
+Day 31: Developer Tools   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/Mef_2wD78Hk?si=3TCyDBiFeeOu1zHU)
 
-Day 32: CloudFormation-Part 2
+Day 32: CloudFormation-Part 1 
 
-Day 33: Terraform (Introduction)
+Day 33: CloudFormation-Part 2
 
-Day 34: Elastic Beanstalk-Config
+Day 34: Terraform (Introduction)
 
-Day 35: ECR-ECS
+Day 35: Elastic Beanstalk-Config
 
-Day 36: ECS-Fargate
+Day 36: ECR-ECS
 
-Day 37: EKS Migration Overview
+Day 37: ECS-Fargate
 
-Day 38: DMS-Migration
+Day 38: EKS Migration Overview
 
-Day 39: Server-Migration-DataSync
+Day 39: DMS-Migration
 
-Day 40: Developer Tools
+Day 40: Server-Migration-DataSync
 
-Day 41: Step Functions-Others
-
-Day 42: Developer Tools
-
-Day 43: Step Functions
+Day 41: Step Functions
