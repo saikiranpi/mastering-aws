@@ -86,6 +86,8 @@ Day 36: DMS-Migration
 
 Day 37: Server-Migration-DataSync
 
-Day 38: Interview / Job Market / Resume Discussion
+Day 38: Step Functions
 
-Day 41: Step Functions
+Day 39: Interview / Job Market / Resume Discussion
+
+
