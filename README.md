@@ -74,22 +74,18 @@ Day 30: CloudWatch-EventBridge-Lambda  [![YouTube](https://img.shields.io/badge/
 
 Day 31: Developer Tools   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/Mef_2wD78Hk?si=3TCyDBiFeeOu1zHU)
 
-Day 32: CloudFormation-Part 1 
+Day 32: Elastic Beanstalk-Config
 
-Day 33: CloudFormation-Part 2
+Day 33: ECR-ECS
 
-Day 34: Terraform (Introduction)
+Day 34: ECS-Fargate
 
-Day 35: Elastic Beanstalk-Config
+Day 35: EKS Migration Overview
 
-Day 36: ECR-ECS
+Day 36: DMS-Migration
 
-Day 37: ECS-Fargate
+Day 37: Server-Migration-DataSync
 
-Day 38: EKS Migration Overview
-
-Day 39: DMS-Migration
-
-Day 40: Server-Migration-DataSync
+Day 38: Interview / Job Market / Resume Discussion
 
 Day 41: Step Functions
