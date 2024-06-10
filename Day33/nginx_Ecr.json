@@ -1,0 +1,32 @@
+{
+    "requiresCompatibilities": [
+      "EC2"
+    ],
+    "containerDefinitions": [
+      {
+        "name": "ecr-ecs",
+        "image": "431064776024.dkr.ecr.us-east-1.amazonaws.com/ecr-ecs-repo:latest",
+        "memory": 256,
+        "cpu": 256,
+        "essential": true,
+        "portMappings": [
+          {
+            "containerPort": 80,
+            "protocol": "tcp"
+          }
+        ],
+        "logConfiguration": {
+            "logDriver": "awslogs",
+            "options": {
+                "awslogs-group": "awslogs-nginx-ecs",
+                "awslogs-region": "us-east-1",
+                "awslogs-stream-prefix": "nginx"
+            }
+        }
+      }
+    ],
+    "volumes": [],
+    "networkMode": "bridge",
+    "placementConstraints": [],
+    "family": "ecr-ecs"
+  }
