@@ -80,7 +80,7 @@ Day 33: ECR-ECS
 
 Day 34: ECS-Fargate
 
-Day 35: EKS Migration Overview
+Day 35: EKS 
 
 Day 36: DMS-Migration
 
