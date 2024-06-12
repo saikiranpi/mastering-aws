@@ -84,10 +84,8 @@ Day 35: EKS Migration Overview
 
 Day 36: DMS-Migration
 
-Day 37: Server-Migration-DataSync
+Day 37: Step Functions
 
-Day 38: Step Functions
-
-Day 39: Interview / Job Market / Resume Discussion
+Day 38: Interview / Job Market / Resume Discussion
 
 
