@@ -82,10 +82,10 @@ Day 34: ECS-Fargate [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.s
 
 Day 35: EKS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/sJSnRTquVwA?si=YvPW0X4StdRe2QHa)
 
-Day 36: DMS-Migration 
+Day 36: AWS Amplify  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/VwlnYdLnmyU)
 
-Day 37: Step Functions
+Day 37: DMS-Migration 
 
-Day 38: Interview / Job Market / Resume Discussion
+Day 38: Step Functions
 
-
+Day 39: Interview / Job Market / Resume Discussion
