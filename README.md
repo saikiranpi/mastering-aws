@@ -74,15 +74,15 @@ Day 30: CloudWatch-EventBridge-Lambda  [![YouTube](https://img.shields.io/badge/
 
 Day 31: Developer Tools   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/Mef_2wD78Hk?si=3TCyDBiFeeOu1zHU)
 
-Day 32: Elastic Beanstalk-Config
+Day 32: Elastic Beanstalk-Config [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/a_FrAayZslo?si=_0y0tj1Xp81-y0UQ)
 
-Day 33: ECR-ECS
+Day 33: ECR-ECS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/a_FrAayZslo?si=_0y0tj1Xp81-y0UQ)
 
-Day 34: ECS-Fargate
+Day 34: ECS-Fargate [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/a_e16xS-MAk?si=N0WcqZ6TDk5Uk9AG)
 
-Day 35: EKS 
+Day 35: EKS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/sJSnRTquVwA?si=YvPW0X4StdRe2QHa)
 
-Day 36: DMS-Migration
+Day 36: DMS-Migration 
 
 Day 37: Step Functions
 
