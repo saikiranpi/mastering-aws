@@ -84,8 +84,7 @@ Day 35: EKS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=
 
 Day 36: AWS Amplify  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/VwlnYdLnmyU)
 
-Day 37: DMS-Migration 
+Day 37:  Cost Optimization & Best Security Practices 
 
-Day 38: Step Functions
+Day 38: Interview / Job Market / Resume Discussion
 
-Day 39: Interview / Job Market / Resume Discussion
