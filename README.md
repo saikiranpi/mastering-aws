@@ -84,7 +84,7 @@ Day 35: EKS [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=
 
 Day 36: AWS Amplify  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/VwlnYdLnmyU)
 
-Day 37:  Cost Optimization & Best Security Practices 
+Day 37:  Cost Optimization & Best Security Practices [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/MKF9LMuFv78?si=PoxiAt2IMANQ6TqH) 
 
-Day 38: Interview / Job Market / Resume Discussion
+Day 38: Interview / Job Market / Resume Discussion  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/dkWmxxh99Z8?si=hNhE6DzTiEXtwBHy)
 
