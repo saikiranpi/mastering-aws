@@ -61,4 +61,14 @@ Launch a new console for the settings to take effect.
 
 -	$ packer.exe inspect --var-file packer-vars.json packer.json
 
-
+  # Linux Commands
+- Download packer for linux from packer.io
+- clone github repo https://github.com/saikiranpi/packer.git
+- cd packer
+- edit packer-vars.json file and add your access key and secret access key, vpc-id and subnetid
+- Check for the ami (make sure you are selecting ubuntu and us-east-1 region ami id)
+- ensure auto assign public ip is enable for the subnet
+- Run below commands
+  sudo packer validate --var-file packer-vars.json packer.json
+  sudo packer inspect --var-file packer-vars.json packer.json
+  sudo packer build --var-file packer-vars.json packer.json
